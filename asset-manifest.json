@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pauldavid23/roboticProject/static/css/main.335f4b20.chunk.css",
+    "main.js": "/pauldavid23/roboticProject/static/js/main.e5387f23.chunk.js",
+    "main.js.map": "/pauldavid23/roboticProject/static/js/main.e5387f23.chunk.js.map",
+    "runtime-main.js": "/pauldavid23/roboticProject/static/js/runtime-main.3e85b04f.js",
+    "runtime-main.js.map": "/pauldavid23/roboticProject/static/js/runtime-main.3e85b04f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/pauldavid23/roboticProject/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js": "/pauldavid23/roboticProject/static/js/2.a5747d58.chunk.js",
+    "static/js/2.a5747d58.chunk.js.map": "/pauldavid23/roboticProject/static/js/2.a5747d58.chunk.js.map",
+    "index.html": "/pauldavid23/roboticProject/index.html",
+    "precache-manifest.7a35dd25d887d21fec556c40be2fb53f.js": "/pauldavid23/roboticProject/precache-manifest.7a35dd25d887d21fec556c40be2fb53f.js",
+    "service-worker.js": "/pauldavid23/roboticProject/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/pauldavid23/roboticProject/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.335f4b20.chunk.css.map": "/pauldavid23/roboticProject/static/css/main.335f4b20.chunk.css.map",
+    "static/js/2.a5747d58.chunk.js.LICENSE.txt": "/pauldavid23/roboticProject/static/js/2.a5747d58.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pauldavid23/roboticProject/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e85b04f.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js",
+    "static/css/main.335f4b20.chunk.css",
+    "static/js/main.e5387f23.chunk.js"
+  ]
+}
